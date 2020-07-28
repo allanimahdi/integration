@@ -1,0 +1,7 @@
+{
+  "name": "fiziapp-mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

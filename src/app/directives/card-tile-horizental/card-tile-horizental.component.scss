@@ -1,0 +1,29 @@
+.card {
+  background: #fff;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 80%;
+  margin: 10%;
+  border-radius: 10px;
+}
+
+.image {
+  border-radius: 10px 0px 0px 10px;
+  float: left;
+  background: #000;
+  width: 25%;
+  height: 150px
+}
+
+.content {
+  float: left;
+  height: 140px;
+  width: 73%;
+  overflow: hidden;
+  padding: 5px;
+}
+
+.content h4 {
+  margin: 5px 0;
+}
